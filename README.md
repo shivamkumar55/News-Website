@@ -16,3 +16,6 @@ A simple web application that displays news fetched from a news API. Allows cate
 - CSS – Styling and responsive design
 
 - JavaScript – Fetching data from the news API, dynamically rendering content
+
+![NewsPulse Screenshot](screenshot.png)
+
